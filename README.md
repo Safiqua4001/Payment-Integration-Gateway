@@ -5,9 +5,7 @@ There will be a simple donate button on the homepage. On clicking the donate but
 
 # Tech Stacks:-
 Front End :-
-    Html
-    CSS
-    JS
+    Html, CSS,JS
     
 # Gateway Used :-
 G-pay
